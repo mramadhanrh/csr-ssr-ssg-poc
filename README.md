@@ -4,7 +4,7 @@ This is an example of the different ways you can use NextJS to build web applica
 
 - Client-side rendering: `/pages/csr.js`
 - Server-side rendering: `/pages/ssr.js`
-- Static-site generation: `/pages/ssg.js`
+- Static-site generation: `/pages/ssg/[pid].js`
 
 Start the project by running:
 
